@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Daniel Domingo. I'm a full stack web developer based in Kobe, Japan.
 
 <!--
 **airbathingape/airbathingape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
